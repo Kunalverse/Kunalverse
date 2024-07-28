@@ -3,6 +3,8 @@
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunalverse&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalverse&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kunalverse)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Kunalverse/Kunalverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
