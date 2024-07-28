@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunalverse&hide=contribs,prs)
 <!--
 **Kunalverse/Kunalverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
